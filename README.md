@@ -1,12 +1,8 @@
 ## Hesham Eraqi's Personal Website
 
-### [Simply](simply.blogspot.com) blog:
+### Other website: [Simply](simply.blogspot.com)
 
-```
-heraqi.blogspot.com
-```
-
-### Markdown
+### Markdown ()
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,6 +23,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+Whenever commits happen to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
